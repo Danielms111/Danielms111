@@ -1,6 +1,6 @@
 ### Hi 👋 Im Daniel Montezuma
 <div id="header" align="right">
-<img src=https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif  widht="10"/>
+<img src=https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif  width="100" />
 </div>
 
 <div 
