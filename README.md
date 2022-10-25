@@ -1,4 +1,5 @@
-###                                                Hi 👋 Im Daniel Montezuma
+<h3 text-align="center"> Hi 👋 Im Daniel Montezuma </h3>
+
 ---
 
 <div id="header" align="right">
