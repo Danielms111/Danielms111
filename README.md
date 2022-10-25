@@ -15,6 +15,6 @@
 <h3> Languages and tools: <h3/>
 <div>
   <img src=https://es.vexels.com/png-svg/vista-previa/166401/icono-del-lenguaje-de-programacion-java  title="Java" alt="Java" width="40" height="40"/>&nbsp
-  <img src=https://icon-icons.com/es/icono/python/104452  title="Python" alt="Python" width="40" height="40"/>&nbsp
+  <img src="https://icon-icons.com/es/icono/python/104452"  title="Python" alt="Python" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/>&nbsp
 </div>
