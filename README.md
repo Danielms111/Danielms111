@@ -1,11 +1,10 @@
-### Hi 👋 Im Daniel Montezuma
+### Hi 👋 Im Daniel Montezuma align="center"
 ---
+
 <div id="header" align="right">
 <img src=https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif  width="300" />
 </div>
 
-
----
 ### About Me:
 - 🌱 I’m currently learning **Java, Python and Javascript**
 
