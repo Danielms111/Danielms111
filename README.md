@@ -3,7 +3,7 @@
 ##
 
 <div id="header" >
-<img src=https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif width="350" align="right"/>
+<img src=https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif width="350" height="270" align="right"/>
 <h3 text-align = "left"> About Me:</h3>
 - 🌱 I’m currently learning **Java, Python and Javascript**
 
