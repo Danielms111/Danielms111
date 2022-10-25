@@ -16,6 +16,5 @@
 <div>
   <img src=https://es.vexels.com/png-svg/vista-previa/166401/icono-del-lenguaje-de-programacion-java  title="Java" alt="Java" width="40" height="40"/>&nbsp
   <img src=https://icon-icons.com/es/icono/python/104452  title="Python" alt="Python" width="40" height="40"/>&nbsp
-  <img src=![image](https://user-images.githubusercontent.com/103274916/197831235-90b5d91a-4a3f-413a-8b07-69866cf2d5ff.png)
- title="Javascript" alt="Javascript" width="40" height="40"/>&nbsp
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/>&nbsp
 </div>
