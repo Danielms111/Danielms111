@@ -1,7 +1,5 @@
 <h3 text-align="center"> Hi 👋 Im Daniel Montezuma </h3>
 
----
-
 <div id="header" >
 <img src=https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif width="300" align="right"/>
 <h3 text-align = "left"> About Me:</h3>
