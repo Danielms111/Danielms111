@@ -7,7 +7,7 @@
 <h3 text-align = "left"> About Me:</h3>
 </div>
 
-- 🌱 I’m currently learning **Java, Python and Javascript**
+- 🌱 I’m currently learning **CSS & Javascript**
 
 ##
 
